@@ -1,0 +1,6 @@
+.env
+__pycache__/
+chromadb/
+outputs/screenshots/*
+.ipynb_checkpoints/
+.vscode/
